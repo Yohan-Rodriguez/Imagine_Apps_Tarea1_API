@@ -9,8 +9,8 @@ API:
 
 * Si no funciona el link, al clonar el repositorio se interactúa con la Api por medio del enlace http://localhost:8000/docs
 
-* La base de datos está alimentada con los datos que obtuve de la tarea 3: Análisis de datos. Son los datos después de la 
-	  limpieza y transformación que realicé para cumplir la Tarea 3. El archivo original de la tarea 3 tiene más de 1'000,000 de
+* La base de datos está alimentada con los datos que obtuve de la **tarea 3: Análisis de datos**. Son los datos después de la 
+	  limpieza y transformación que realicé para cumplir dicha tarea. El archivo original de la tarea 3 tiene más de 1'000,000 de
 	  registros y la base de datos en Supabase la formé con 100 registros tomados aleatoriamente de más millón de registros 
 	  originales.
 
